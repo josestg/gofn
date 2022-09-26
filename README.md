@@ -1,0 +1,3 @@
+# gofn
+
+Go Functional Utilities
